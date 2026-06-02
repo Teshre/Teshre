@@ -60,8 +60,9 @@ currently: shipping Ocote v1 · submitted PR to tinted-theming
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshre&layout=compact&bg_color=14100C&title_color=E8843A&text_color=E7DCC6&border_color=2A2218&icon_color=7DC97A)](https://github.com/Teshre)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teshre&show_icons=true&bg_color=14100C&title_color=E8843A&text_color=E7DCC6&border_color=2A2218&icon_color=7DC97A&hide=contribs)](https://github.com/Teshre)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Teshre&theme=dark&background=14100C&border=2A2218&ring=E8843A&fire=F4B265&currStreakLabel=E8843A&sideLabels=E7DCC6&currStreakNum=E7DCC6&sideNums=E7DCC6&dates=6B6253)](https://github.com/Teshre)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshre&layout=compact&bg_color=14100C&title_color=E8843A&text_color=E7DCC6&border_color=2A2218&icon_color=7DC97A&cache_seconds=86400)](https://github.com/Teshre)
 
 </div>
 
