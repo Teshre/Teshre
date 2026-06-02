@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Teshre/Ocote/main/docs/assets/ocote-icon-200.png" width="80" style="border-radius:20px" alt="Ocote">
+<img src="https://github.com/user-attachments/assets/92d94306-0dd6-493f-beae-4b713444e933" width="80" style="border-radius:20px" alt="Ocote"><img src="https://github.com/user-attachments/assets/92d94306-0dd6-493f-beae-4b713444e933" width="80" style="border-radius:20px" alt="Ocote">
 
 ### Hi there 👋 I'm Eduardo — aka **Teshre**
 
