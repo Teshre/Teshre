@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/92d94306-0dd6-493f-beae-4b713444e933" width="80" style="border-radius:20px" alt="Ocote"><img src="https://github.com/user-attachments/assets/92d94306-0dd6-493f-beae-4b713444e933" width="80" style="border-radius:20px" alt="Ocote">
+<img src="https://github.com/user-attachments/assets/92d94306-0dd6-493f-beae-4b713444e933" width="80" style="border-radius:20px" alt="Ocote">   <img src="https://github.com/user-attachments/assets/fb724982-81b6-4052-bab8-d6f869fa1b95" width="80" style="border-radius:20px" alt="Ocote">
 
 ### Hi there 👋 I'm Eduardo — aka **Teshre**
 
