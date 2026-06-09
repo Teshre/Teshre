@@ -38,7 +38,7 @@ currently: shipping Ocote v1 · submitted PR to tinted-theming
 
 | Project | What it is | Stack | Status |
 |---------|-----------|-------|--------|
-| [**Ocote**](https://github.com/Teshre/Ocote) | Offline terminal for humans — no AI, no cloud, no nonsense. | ![Rust](https://img.shields.io/badge/Rust-E8843A?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) | 🛠 Pre-release |
+| [**Ocote**](https://github.com/Teshre/Ocote) | Offline terminal for humans — no AI, no cloud, no nonsense. | ![Rust](https://img.shields.io/badge/Rust-E8843A?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) | ✅ Live |
 | [**ocote-themes**](https://github.com/Teshre/ocote-themes) | 8 original warm-tone terminal schemes. base16-compatible, works everywhere. | ![base16](https://img.shields.io/badge/base16-7DC97A?style=flat-square&logo=github&logoColor=white) | ✅ PR → tinted-theming |
 | [**Filare**](https://filare.app) | Racket stringing service app. Built because a friend needed it. iOS + Android + Web. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ✅ Live |
 
